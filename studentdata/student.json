@@ -30,6 +30,14 @@
 "student_gender":"female",
 "student_address":"Bangalore",
 "student_phone":9986582559
+},
+{
+"student_Id":105,
+"student_Name":"Sara Tendulkar",
+"student_age":19,
+"student_gender":"female",
+"student_address":"Kolkata",
+"student_phone":9986582550
 }
 ]
 
